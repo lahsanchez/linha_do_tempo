@@ -1,0 +1,7 @@
+Leo, precisa ter o node instalado no seu pc
+
+ - instala o node_modules
+# npm install
+
+ - roda o servidor
+#npm start
